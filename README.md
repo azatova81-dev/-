@@ -1,2 +1,7 @@
-# -
-git add . git commit -m "Add Power BI project" git push origin main
+# Отчёт по складам — Power BI
+
+Анализ складских запасов и движения товаров.
+
+[Скачать отчёт Power BI](asel9.pbix)
+
+Для просмотра скачайте файл и откройте его в Power BI Desktop.
